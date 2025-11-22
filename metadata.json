@@ -1,0 +1,7 @@
+{
+  "name": "TrikeConnect",
+  "description": "A minimalist, smart tricycle ride-hailing platform connecting drivers and commuters with AI-powered route insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
